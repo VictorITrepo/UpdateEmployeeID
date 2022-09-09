@@ -1,7 +1,7 @@
-* Set EmployeeID property on ADuser
-* 09/07/2022  Initial release
-*
-*
+# Set EmployeeID property on ADuser
+# 09/07/2022  Initial release
+#
+#
 Function button ($title,$userID, $empID) {
 
     ###################Load Assembly for creating form & button######
